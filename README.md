@@ -1,42 +1,8 @@
-# 鱼皮 RPC 框架
-
-> 从 0 到 1，带你开发自己的 RPC 框架
->
-> 鱼皮原创项目教程系列：https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd
-
-
+# 手写 RPC 框架
 
 ## 项目介绍
 
 基于 Java + Etcd + Vert.x 的高性能 RPC 框架，用新颖的技术栈从 0 到 1 带大家开发轮子。教程由浅入深，可以学习并实践基于 Vert.x 的网络服务器、序列化器、基于 Etcd 和 ZooKeeper 的注册中心、反射、动态代理、自定义网络协议、多种设计模式（单例 / 工厂 / 装饰者等）、负载均衡器设计、重试和容错机制、Spring Boot Starter 注解驱动开发等，大幅提升架构设计能力。
-
-项目分为基础版和扩展版：
-
-- 基础版只需学几个小时，就能写在简历上的小项目~
-- 扩展版将是充满亮点的技术类项目，搭配一个业务项目，让简历更有竞争力。
-
-> 开始学习或了解详情：[手写 RPC 框架（24 年最新）](https://yuyuanweb.feishu.cn/wiki/EweIwSYsXiEvCDkzS8BcTiAonyc)
->
-> 开源地址：https://github.com/liyupi/yu-rpc
->
-> [教程第一章可免费学习](https://www.code-nav.cn/course/1768543954720022530/section/1768545847093518337)
->
-> [导学视频 - RPC 讲解](https://www.bilibili.com/video/BV1AJ4m1H7XL)
-
-
-
-## 项目展示
-
-目录结构：
-
-![](./docs/tutorial.jpg)
-
-
-详细的保姆级文字教程：
-
-![](./docs/structure.jpg)
-
-
 
 ## 技术选型
 
@@ -146,9 +112,4 @@
 42. 启动机制 | Spring Boot Starter 注解驱动实现
 43. 项目扩展思路
 
-
-
-## 完整项目教程学习
-
-点击 [加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) ，鱼皮往期 [所有原创项目](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd) 均可学习。
 
